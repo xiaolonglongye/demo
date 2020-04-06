@@ -25,6 +25,11 @@ namespace WebApplication72.Controllers
         {
             return View();
         }
+
+        public ActionResult Test9999999()
+        {
+            return View();
+        }
     }
     
 }
