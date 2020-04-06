@@ -30,6 +30,10 @@ namespace WebApplication72.Controllers
         {
             return View();
         }
+        public ActionResult Test2222222222222()
+        {
+            return View();
+        }
     }
     
 }
